@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Because i'm happy clap along if you feel like happiness into you.
+Only ass could be 
 Use the left arrow to go back!
